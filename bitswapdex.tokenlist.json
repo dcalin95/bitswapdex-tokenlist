@@ -1,0 +1,21 @@
+{
+  "name": "BitSwapDEX Token List",
+  "logoURI": "https://raw.githubusercontent.com/solidity-sage/tokenlists/main/assets/bitswapdex/logo.png",
+  "keywords": ["bits", "dex", "ai", "token"],
+  "timestamp": "2025-09-20T20:30:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x02bcCc3cB1D0fa72fA221F8c7acea60d6231a7aD",
+      "name": "BitSwapDEX AI",
+      "symbol": "BITS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solidity-sage/tokenlists/main/assets/bitswapdex/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
